@@ -2,6 +2,7 @@ Person Re-Identification
 ========================
 
 <br/>
+
 ## Paper list
 
 ### 2018
@@ -18,4 +19,6 @@ Person Re-Identification
 * W. Li, R. Zhao, T. Xiao, and X. Wang, “Deepreid: Deep filter pairing neural network for person re-identification,” in CVPR (2014) [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Li_DeepReID_Deep_Filter_2014_CVPR_paper.pdf)]
 
 <br/>
+
 ## Datasets for Person Re-Idendification
+![dataset_chart](./images/person_re-id_dataset.png)
