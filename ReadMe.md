@@ -23,6 +23,7 @@ Person Re-Identification
 ## Datasets for Person Re-Idendification
 <br/>
 * Image-based datasets
+
 ![dataset_chart](./images/person_re-id_dataset.png)
 
 * Video-based datasets
