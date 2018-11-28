@@ -9,7 +9,7 @@ Person Re-Identification
 * Zheng, Liang, et al. "Person re-identification: Past, present and future."arXiv preprint arXiv:1610.02984 (2016). [[paper](https://arxiv.org/abs/1610.02984)]
 
 ### 2015
-* Zheng, Liang, et al. "Scalable person re-identification: A benchmark."vin ICCV (2015); [[paper](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zheng_Scalable_Person_Re-Identification_ICCV_2015_paper.pdf)] **← Market-1501 dataset**
+* Zheng, Liang, et al. "Scalable person re-identification: A benchmark." in ICCV (2015); [[paper](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zheng_Scalable_Person_Re-Identification_ICCV_2015_paper.pdf)] **← Market-1501 dataset**
 
 ### 2014 
 * D. Yi, Z. Lei, S. Liao, S. Z. Li et al., “Deep metric learning for person re-identification.” in ICP. (2014) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6976727)]
