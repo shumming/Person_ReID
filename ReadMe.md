@@ -21,4 +21,6 @@ Person Re-Identification
 <br/>
 
 ## Datasets for Person Re-Idendification
+<br/>
+
 ![dataset_chart](./images/person_re-id_dataset.png)
