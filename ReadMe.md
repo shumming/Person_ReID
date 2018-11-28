@@ -24,3 +24,5 @@ Person Re-Identification
 <br/>
 
 ![dataset_chart](./images/person_re-id_dataset.png)
+
+![video-dataset_chart](./images/person_re-id_video.png)
