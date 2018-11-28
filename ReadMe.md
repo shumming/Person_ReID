@@ -3,6 +3,7 @@ Person Re-Identification
 
 <br/>
 ## Paper list
+
 ### 2018
 * Deng, Weijian, et al. "Image-image domain adaptation with preserved self-similarity and domain-dissimilarity for person reidentification." in CVPR (2018) [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Deng_Image-Image_Domain_Adaptation_CVPR_2018_paper.pdf)]
 
